@@ -1,5 +1,5 @@
-https://vk.com/@learn_frontend_info-pishem-css-luchshe
-https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f
+* https://vk.com/@learn_frontend_info-pishem-css-luchshe
+* https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f
 
 # SCSS Boilerplate
 
